@@ -1,0 +1,53 @@
+/*
+Theme Name: Darling
+Theme URI: http://carlymho.com/themes/darling
+Description: A nice theme
+Author: Carly M. Ho
+Author URI: http://carlymho.com/
+Version: 1.0
+Tags: 
+
+License:
+License URI:
+
+General comments (optional).
+*/
+
+body {
+	background-color: #FFF;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 82.5%;
+	color: #000;
+	text-align: center;
+	margin: 0;
+}
+
+#page {
+	width: 960px;
+	margin: 0 auto;
+}
+
+#nav {
+	background-color: #000;
+	color: #FFF;
+	list-style: none;
+}
+
+#nav li {
+	display: inline-block;
+}
+
+#nav li a {
+	color: #FFF;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+#header {
+
+}
+
+#header h1 {
+	font-family: "League Gothic";
+	font-size: 3em;
+}
